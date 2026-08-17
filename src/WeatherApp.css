@@ -1,0 +1,13 @@
+.weather-app {
+    min-height: 100vh;
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(135deg, #74ebd5, #9face6);
+}
+
+.weather-app h1 {
+    color: white;
+    font-size: 42px;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
